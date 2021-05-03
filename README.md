@@ -1,1 +1,1 @@
-# Capstone-1
+# Capstone Project: Emotion Recognition in Speech Using Machine Learning
